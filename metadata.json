@@ -1,0 +1,6 @@
+{
+  "name": "晨露打卡 - 学习进度与周报",
+  "description": "简洁清新的每日学习打卡与周报统计工具，支持自定义学习打卡、周报数据可视化、白噪音专注番茄钟与个性化激励提醒。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
